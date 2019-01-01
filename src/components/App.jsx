@@ -16,7 +16,7 @@ import { editing } from '../ducks'
 import { DemoForm } from './DemoForm'
 import { DemoConfig } from './DemoConfig'
 import { formCode } from './formCode'
-import { Panel } from '../../../src/ui/components/Panel'
+import { Panel } from 'redux-form-auto'
 import { formValues } from 'redux-form'
 
 const handleChange = (changeCode, code) => {

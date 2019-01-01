@@ -1,1 +1,1 @@
-export { Root } from './Root.jsx'
+import Root from './Root.jsx'
