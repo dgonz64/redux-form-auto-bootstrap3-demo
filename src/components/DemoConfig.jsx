@@ -5,7 +5,7 @@ import {
   Autoform,
   addTranslations,
   setLanguageByName
-} from 'redux-form-auto'
+} from 'redux-form-auto-bootstrap3'
 
 addTranslations({
   models: {

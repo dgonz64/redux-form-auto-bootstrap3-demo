@@ -6,7 +6,7 @@ import { Provider } from 'react-redux'
 
 import { App } from './components/App.jsx'
 import { editing } from './ducks'
-import { setLanguageByName } from 'redux-form-auto'
+import { setLanguageByName } from 'redux-form-auto-bootstrap3'
 
 setLanguageByName('en')
 

@@ -66,6 +66,6 @@
     "react-redux": "^5.0.7",
     "redux": "^3.7.2",
     "redux-form": "^7.2.3",
-    "redux-form-auto": "file:../redux-form-auto"
+    "redux-form-auto-bootstrap3": "file:../rfa-bs3"
   }
 }

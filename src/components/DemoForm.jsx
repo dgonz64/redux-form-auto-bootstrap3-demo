@@ -1,6 +1,6 @@
 import React from 'react'
 import { reduxForm } from 'redux-form'
-import { Schema, Autoform, addTranslations } from 'redux-form-auto'
+import { Schema, Autoform, addTranslations } from 'redux-form-auto-bootstrap3'
 
 addTranslations({
   models: {
